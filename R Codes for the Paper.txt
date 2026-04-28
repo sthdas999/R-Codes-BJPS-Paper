@@ -1,0 +1,17 @@
+Title: R Codes for the Paper
+
+This folder contains the R code used in the paper: “On Estimation of Joint Cumulative Distribution of Estimators in Partially Linear Regression”
+
+Files:
+- Section 4__Simulation_Study.R: Runs the simulation study.
+- Section 5__Real_Data_Study.R: Code for data analysis (if applicable).
+
+How to use:
+1. Open R or RStudio.
+2. Set the working directory to this folder.
+3. Run the .R files.
+
+Note: The code reproduces the main results presented in the paper.
+
+Author:
+Sthitadhi Das
